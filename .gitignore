@@ -5,6 +5,7 @@
 /imput/tmp
 /log
 /tmp
+/chunkers
 *.pyc
 out.txt
 err.txt
