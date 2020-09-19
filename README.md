@@ -1,25 +1,3 @@
-### An aggregator that ethically scrap only car ads published on four major websites in Egypt and KSA:
-
-    #Carmudi
-    'carmudi.com.sa':{
-            'base_url': "https://carmudi.com.sa"
-    },
-    #Hatla2ee
-    'ksa.hatla2ee.com': {
-            'base_url': "https://ksa.hatla2ee.com"
-    },
-    #Olx
-    'olx.sa.com': {
-            'base_url': "https://olx.sa.com"
-    },
-    #Haraj
-    'haraj.com.sa':{
-            'base_url': "https://haraj.com.sa"
-    },
-
-#### If you are going to reuse this code, please respect ethical web scrapping guidelines simialr to what is 
-published here: https://www.empiricaldata.org/dataladyblog/a-guide-to-ethical-web-scraping#:~:text=Practice%20Ethical%20Web%20Scraping,how%20to%20do%20it%20right.
-
 # Classifieds Aggregator for Ads in Arabic
 
 Ethically scrap car ads published on four major websites in Egypt and KSA:
