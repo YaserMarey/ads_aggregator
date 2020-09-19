@@ -1,0 +1,11 @@
+.tmp
+.idea
+.ipynb_checkpoints
+/data
+/imput/tmp
+/log
+/tmp
+*.pyc
+out.txt
+err.txt
+
