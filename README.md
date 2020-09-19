@@ -7,11 +7,11 @@ Ethically scrap car ads published on four major websites in Egypt and KSA:
 - [Olx](https://olx.sa.com)
 - [Haraj](https://haraj.com.sa)
 
-# Disclaimer
+### Disclaimer
 None of these websites has published API, and scrapping is the only way to collect the data however if you are going to reuse this code, please respect ethical web scrapping guidelines similar to what is 
 published [here](https://www.empiricaldata.org/dataladyblog/a-guide-to-ethical-web-scraping#:~:text=Practice%20Ethical%20Web%20Scraping,how%20to%20do%20it%20right)
 
-# How does it work
+### How does it work
 The aggregator cleans and interpolate data and classify it into one of the ads categories:
 | Code | Caegorgy |
 | ------ | ------ |
@@ -34,10 +34,10 @@ The ./ml/classifier/ad_classifier.py contains an ensemble of classifiers trained
  - Enhance classification results
  - Less hurestices
 
-License
+### License
 ----
 
 MIT
 
-**Free Software, Hell Yeah!**
+**Free Software, Yeah!**
 
