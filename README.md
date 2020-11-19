@@ -19,7 +19,7 @@ The aggregator cleans and interpolate data and classify it into one of the ads c
 |PRT | Parts|
 |TRN | Transfer|
 |SVC | Services|
-|EXP | Exhiption|
+|EXP | Exhibition|
 |REQ | Request to buy|
 |ACC | Accessories|
 |EXC | Exchange|
